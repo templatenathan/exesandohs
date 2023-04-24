@@ -14,6 +14,7 @@ GIVEN a single 'x' or 'o'
 WHEN the check is run
 THEN the result should be false
 
+✅
 GIVEN a string with multiple 'x' and 'o', but the same amount
 AND the cases of the characters can be upper or lower case
 WHEN the check is run
