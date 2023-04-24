@@ -9,6 +9,7 @@ GIVEN a non 'x' or 'o' character
 WHEN the check is run
 THEN the result should be true
 
+✅
 GIVEN a single 'x' or 'o'
 WHEN the check is run
 THEN the result should be false

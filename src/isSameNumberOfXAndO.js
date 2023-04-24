@@ -1,3 +1,3 @@
 module.exports = (string) => {
-  return true;
+  return string !== "x" && string !== "o";
 };
