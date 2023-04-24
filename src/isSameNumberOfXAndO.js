@@ -1,1 +1,3 @@
-module.exports = "placeholder";
+module.exports = (string) => {
+  return true;
+};
