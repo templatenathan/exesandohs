@@ -1,4 +1,4 @@
-const placeholder = require("../src/template");
+const placeholder = require("../src/isSameNumberOfXAndO");
 
 describe("Placeholder test", () => {
   it("placeholder", () => {
